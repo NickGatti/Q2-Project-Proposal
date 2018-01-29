@@ -77,6 +77,8 @@ Step ten: Data analysis will reveal that perspective is only to the eye of the b
 
 ## Working Output: Data that can be used for things like online reviews, the intention can be analyzed with this data to see if the user was reviewing themselves of if they were reviewing the product.
 
+## KarmaComments: Will use the input from users (like a 1-10 numerical selection about how they felt) and combine that with technologies that can connect words and numerical values to make trends of data. Trends of data will reveal how words affect all people and can be used to completely change everything and anything around them. Data will reveal perspective of change, what if, someone (everyone changed). The many on one side of the road will see themselves and the one person alone on the other and they will no longer be divided.
+
 ## What I want to prove:
 
 User logged into MyEdibleReviewApp.com and it asks, how was your day?
