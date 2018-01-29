@@ -123,3 +123,5 @@ Output:
 ```
 
 #### If you serve shit, you eat shit.
+
+# If you serve love, you eat love.
