@@ -69,3 +69,5 @@ Step ten: Data analysis will reveal that perspective is only to the eye of the b
 ## Technologies used: HTML, CSS SQL, KNEX, Postgres, express.js, Materialize
 
 ## User info: Logged in, View mode (not logged in), admin login
+
+## Working Output: Data that can be used for things like online reviews, the intention can be analyzed with this data to see if the user was reviewing themselves of if they were reviewing the product.
