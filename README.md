@@ -3,39 +3,40 @@ Nick and Jennifer | Quarter 2 Project Proposal
 
 # Project 1
 
-Q2 Project Proposal - Edible Review App
+Q2 Project Proposal - WE LOVE OUR EDIBLES!
+Consumer Edible Review Blog
 
-Who uses it? anyone that wants to review a MMJ or CBD product
+Who uses it? Consumers that want to review an MMJ or CBD product
 
-What outputs do they need? can see what past products have been reviewed, have favorite brand
+What outputs do they need? The consumer can see what products have been reviewed, discover a new brand or product. See what products are popular.
 
-What inputs are needed to generate those outputs? inputs are review of edible values
+What inputs are needed to generate those outputs? Inputs are reviews of edible values/data from the form.
 
 Technologies used: HTML, CSS SQL, KNEX, Postgres, express.js, Materialize?
 
-Blog - Review of MMJ and CBD edibles for patients and/or non-patients
+Blog - Review of MMJ and CBD edibles for patients and/or non-patients.
 
-User info? non-logged in (non-patients), logged in (patients), logged in (admin)
+User info? Non-logged in (non-patients), Logged in (patients), Logged in (admin)
 
-Caterogies;
-drinks
-baked goods or pastries
-candy
-salted snacks
-syrup
+Edible Categories;
+Drinks - elixirs, soda, coffee, tea, cocktails  
+Baked goods/pastries — cookies, brownies
+Candies
+Salted snacks - popcorn, pretzels
+Syrups
 misc.
 
-Values/data of edibles?
-name/brand
-looks: color, texture, can upload photos if logged in
-taste: medicine taste?
-smell: medicine smell?
-effect: happy, energetic, couch lock, relaxed, sleepy, giggly  
-acquired from: optional to show dispensary or vendor
+Values/data of edibles;
+Name/Brand of product
+Appearance: color, texture, can upload photos if logged in
+Taste: scale good or bad, medicine taste?
+Smell: scale good or bad,  medicine smell?
+Effect: happy, energetic, couch lock, relaxed, sleepy, giggly, euphoric  
 
-
-Send to Leafy? Send to MassRoots? Send to Facebook?
-Send to dispensary?
+(Optional)
+Acquired from: Show dispensary or vendor/brand
+Send the review to Leafy? Send to review MassRoots?
+Send to review Dispensary?
 
 # Project 2
 
@@ -63,7 +64,7 @@ Step eight: After 2 days the system will ask the commenters about how they felt 
 
 Step nine: Data analysis will reveal that between the 2 parties, everything is a 2 way road. Sometimes everyone just wants to walk on one side of it while one person is alone on the other side. Comments will be disabled.
 
-Step ten: Data analysis will reveal that perspective is only to the eye of the beholder, and the eye of the beholder can be blind. They may only see themsevles in the road. Comments will be disabled.
+Step ten: Data analysis will reveal that perspective is only to the eye of the beholder, and the eye of the beholder can be blind. They may only see themselves in the road. Comments will be disabled.
 
 ## Who uses it: People who are interested in growing up.
 
