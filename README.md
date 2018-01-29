@@ -41,7 +41,7 @@ Send to dispensary?
 
 ### By anonymous login or not
 
-Name: Iamnotblind
+Name: KarmaComments
 
 Overview: A way for people to connect online and share, based on random selection, how their actions and words affect themselves.
 
@@ -115,3 +115,5 @@ Output:
   1. Probably going to give a good review about THEMSELVES
   2. Probably going to give a bad review about THEMSELVES
 ```
+
+#### If you serve shit, you eat shit.
