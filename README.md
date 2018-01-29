@@ -3,38 +3,43 @@ Nick and Jennifer | Quarter 2 Project Proposal
 
 # Project 1
 
-Q2 Project Proposal
+Q2 Project Proposal - Edible Review App
 
-Who uses it? anyone that wants to review a product
+Who uses it? anyone that wants to review a MMJ or CBD product
 
-What outputs do they need?
+What outputs do they need? can see what past products have been reviewed, have favorite brand
 
-What inputs are needed to generate those outputs?
+What inputs are needed to generate those outputs? inputs are review of edible values
 
 Technologies used: HTML, CSS SQL, KNEX, Postgres, express.js, Materialize?
 
-Blog - Review of MMJ and CBD edibles for patients and non-patients
+Blog - Review of MMJ and CBD edibles for patients and/or non-patients
 
-User info? non-logged in, logged in, logged in (admin)
+User info? non-logged in (non-patients), logged in (patients), logged in (admin)
 
-
+Caterogies;
 drinks
 baked goods or pastries
 candy
 salted snacks
+syrup
+misc.
+
+Values/data of edibles?
+name/brand
+looks: color, texture, can upload photos if logged in
+taste: medicine taste?
+smell: medicine smell?
+effect: happy, energetic, couch lock, relaxed, sleepy, giggly  
+acquired from: optional to show dispensary or vendor
 
 
-Values of edible?
-looks: color, texture
-taste
-smell
-effect: happy, energetic,
-acquired from: optional0
-
-
-Send to Leafy? Send to MassRoots? Send to dispensary?
+Send to Leafy? Send to MassRoots? Send to Facebook?
+Send to dispensary?
 
 # Project 2
+
+### By anonymous login or not
 
 Name: Iamnotblind
 
@@ -71,3 +76,42 @@ Step ten: Data analysis will reveal that perspective is only to the eye of the b
 ## User info: Logged in, View mode (not logged in), admin login
 
 ## Working Output: Data that can be used for things like online reviews, the intention can be analyzed with this data to see if the user was reviewing themselves of if they were reviewing the product.
+
+## What I want to prove:
+
+User logged into MyEdibleReviewApp.com and it asks, how was your day?
+
+User selects how their day was.
+
+For example 1 we will use 'Good'
+
+Example 1
+
+```
+User logs into MyEdibleReviewApp.com and reveals they are feeling good
+User buys or reviews a product
+MyEdibleReviewApp asks the user again how they are feeling
+
+Output:
+  Based on data MyEdibleReviewApp can try to 'assume' that the user is going to:
+
+  1. Probably going to give a good review about the PRODUCT
+  2. Probably going to give a bad review about the PRODUCT
+
+```
+
+For example 2 we will use 'Bad'
+
+Example 2
+
+```
+User logs into MyEdibleReviewApp.com and reveals they are feeling good
+User buys or reviews a product
+MyEdibleReviewApp asks the user again how they are feeling
+
+Output:
+  Based on data MyEdibleReviewApp can try to 'assume' that the user is going to:
+
+  1. Probably going to give a good review about THEMSELVES
+  2. Probably going to give a bad review about THEMSELVES
+```
