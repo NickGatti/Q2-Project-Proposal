@@ -4,17 +4,20 @@ Nick and Jennifer | Quarter 2 Project Proposal
 # Project 1
 
 Q2 Project Proposal - WE LOVE OUR EDIBLES!
+
+Project: WeLoveOurEdibles.com
+
 Consumer Edible Review Blog
 
-Who uses it? Consumers that want to review an MMJ or CBD product
+Who uses it? Consumers that want to review an MMJ or CBD product without worry or influence from the business, brand or dispensary.
 
 What outputs do they need? The consumer can see what products have been reviewed, discover a new brand or product. See what products are popular.
 
-What inputs are needed to generate those outputs? Inputs are reviews of edible values/data from the form.
+What inputs are needed to generate those outputs? Inputs are values from the review of the product.
 
 Technologies used: HTML, CSS SQL, KNEX, Postgres, express.js, Materialize?
 
-Blog - Review of MMJ and CBD edibles for patients and/or non-patients.
+Blog - Review of MMJ and CBD product for patients and/or non-patients.
 
 User info? Non-logged in (non-patients), Logged in (patients), Logged in (admin)
 
@@ -42,7 +45,7 @@ Send to review Dispensary?
 
 ### By anonymous login or not
 
-Name: KarmaComments
+Name: KarmaComments.com
 
 Overview: A way for people to connect online and share, based on random selection, how their actions and words affect themselves.
 
